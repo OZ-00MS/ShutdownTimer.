@@ -5,9 +5,6 @@ Users can schedule or cancel a shutdown directly from a friendly GUI.
 This project can also be converted into a standalone **Windows EXE** using **PyInstaller** — no Python installation required for users.
 
 ---
-
-## 🚀 Demo
-
 ### 📸 Preview
 <img width="404" height="481" alt="Screenshot 2025-12-18 195944" src="https://github.com/user-attachments/assets/9f3b2b6f-40c6-464f-8a63-3b73a689a619" />
 
